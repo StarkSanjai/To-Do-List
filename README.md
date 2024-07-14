@@ -3,9 +3,9 @@ This is a To-Do-List application created by using MERN stack.
 
 # Languages Used:
 
-Javascript
-SCSS
-HTML
+Javascript/n
+SCSS/n
+HTML/n
 CSS
 
 # How to download and run the program:
